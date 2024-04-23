@@ -71,4 +71,5 @@ Conclusion:
 As an analyst, with access to data on the overall value of imports for each food type, total volume of imports, and prices for different food types, I attempted to evaluate the dataset to identify insights and opportunities. Essentially, I aimed to:
 1. Identify Imports with High Profit Margins: By evaluating the profit margins of importing each food type and comparing the cost per unit volume across different food types, I attempted to identify food types with lower cost per unit volume, indicating greater value for money in terms of import costs.
 2. Forecasting Market Trends: Using historical data on import volumes, I built an ARIMA model to forecast volume values for 2023-2025. This data can be used to uncover new opportunities and challenges in the global food trade.
-3. Evaluating Cost-Effective Modes of Transportation: After finding the profit margins for food types such as vegetables, I evaluated and plotted to show that Mexico and Canada are the largest contributors to US food trade.
+3. Evaluating Cost-Effective Modes of Transportation: After finding the profit margins for food types such as vegetables, I evaluated and plotted to show that Mexico and Canada are the largest contributors to US food trade. With this information in hand, I proceeded to examine and determine which modes of transportation are most cost effective.
+
